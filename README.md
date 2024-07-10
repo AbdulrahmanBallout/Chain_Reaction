@@ -22,12 +22,12 @@
 - **Bootstrap**: Used for consistency and streamlined development.
 
 ### Performance Optimization
-- **Image Compression**: Reduced file sizes to enhance page speed.
 - **Browser Caching**: Leveraged for quicker load times.
 - **Lazy Loading**: Implemented to delay loading of off-screen images.
 
 ### CSS Animation
 - **Subtle Animations**: Enhanced engagement without overwhelming users.
+- **@keyframes**: Used to create smooth animations by defining key points within an animation sequence.
 
 ## Challenges Encountered
 
@@ -35,16 +35,8 @@
 - **Testing**: Ensured consistent rendering and functionality.
 - **Vendor Prefixes**: Applied where necessary.
 
-### Accessibility
-- **Semantic HTML**: Used to improve accessibility.
-- **ARIA Attributes**: Properly implemented.
-- **Color Contrast**: Ensured sufficient contrast for readability.
-
 ### Performance vs. Visual Appeal
 - **Image Optimization**: Balanced high-quality images with fast load times.
-
-### Using Bootstrap with PrimeFaces
-- **Integration**: Took additional time but was a valuable learning experience.
 
 ### Image Sourcing and Editing
 - **Product Images**: Finding and editing images to achieve the desired visual result was time-consuming but essential for the page's appeal.
