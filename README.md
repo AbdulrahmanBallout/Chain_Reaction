@@ -49,6 +49,15 @@
 ### Image Sourcing and Editing
 - **Product Images**: Finding and editing images to achieve the desired visual result was time-consuming but essential for the page's appeal.
 
+## Future Plans
+
+### Accessibility for Color Blind Users
+- **Features**: Implement additional accessibility features to support users with color blindness, such as color contrast adjustments and alternative text descriptions.
+
+### Model-Based Product Displays
+- **Showcase**: Introduce a section where products are showcased by models to provide a better visual context and enhance the shopping experience.
+
 ## Conclusion
 
-The shoe shop landing page combines a visually appealing design with optimized performance and accessibility. Despite challenges, the page provides a seamless and engaging user experience across all devices and browsers.
+The shoe shop landing page combines a visually appealing design with optimized performance and accessibility. Despite challenges, the page provides a seamless and engaging user experience across all devices and browsers. Future plans aim to enhance accessibility further and improve product presentation, ensuring an inclusive and attractive shopping environment for all users.
+
